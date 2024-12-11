@@ -1,0 +1,10 @@
+.CodeBlockClass {
+  position: relative;
+}
+
+.CopyButtonClass {
+  position: absolute;
+  top: 4px;
+  right: 10px;
+  cursor: pointer;
+}
